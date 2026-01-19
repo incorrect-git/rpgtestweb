@@ -3,7 +3,6 @@
     <type fullname="AnimatorEvents" preserve="all" />
     <type fullname="ArrowController" preserve="all" />
     <type fullname="AttackableEnemyObject" preserve="all" />
-    <type fullname="AttackablePersonageObject" preserve="all" />
     <type fullname="DamagePopup" preserve="all" />
     <type fullname="DecalSpriteSheetsController" preserve="all" />
     <type fullname="EnemyAgroController" preserve="all" />
@@ -14,6 +13,7 @@
     <type fullname="RangeWeaponController" preserve="all" />
     <type fullname="ShieldController" preserve="all" />
     <type fullname="SocketItem" preserve="all" />
+    <type fullname="SourceManage" preserve="all" />
     <type fullname="SwipeSettingsSO" preserve="all" />
     <type fullname="UIButton" preserve="all" />
     <type fullname="WeaponController" preserve="all" />
@@ -45,6 +45,9 @@
     <type fullname="UnityEngine.Animator" preserve="all" />
     <type fullname="UnityEngine.Avatar" preserve="all" />
     <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ComputeShader" preserve="all" />
